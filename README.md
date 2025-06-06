@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Ali7488
+- 👀 I’m interested in Machine Learning and Generative AI
+- 🌱 I’m currently learning Computer Science 
+- 📫 How to reach me mohannad.eali@gmail.com
