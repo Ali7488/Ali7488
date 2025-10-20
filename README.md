@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Ali7488
 - 👀 I’m interested in Machine Learning and Generative AI
-- 🌱 I’m currently learning Computer Science 
+- 🌱 I’m currently learning Computer Science at the University of Regina
 - 📫 How to reach me mohannad.eali@gmail.com
