@@ -24,4 +24,4 @@ Achieved **97.54% accuracy** on 10,000+ test samples.
 
 ## Contact
 - Email: mohannad.eali@gmail.com
-- LinkedIn: [LinkedIn URL]
+- LinkedIn: www.linkedin.com/in/mohannadali7488
