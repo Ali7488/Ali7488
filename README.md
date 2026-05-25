@@ -17,9 +17,9 @@ Built a neural network from scratch in Python and NumPy to classify handwritten 
 Achieved **97.54% accuracy** on 10,000+ test samples.
 
 ## Tech Stack
-**Languages:** Python, C++  
+**Languages:** Python, C++, JavaScript, HTML, CSS  
 **Libraries/Frameworks:** PyTorch, NumPy, TorchVision  
-**Tools:** Git, GitHub  
+**Tools:** Git, GitHub, Linux (WSL)  
 **Interests:** Machine Learning, Generative AI, Computer Vision
 
 ## Contact
