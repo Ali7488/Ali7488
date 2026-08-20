@@ -18,9 +18,9 @@ Achieved **97.54% accuracy** on 10,000+ test samples.
 
 ## Tech Stack
 **Languages:** Python, C++, JavaScript, HTML, CSS  
-**Libraries/Frameworks:** PyTorch, NumPy, TorchVision  
-**Tools:** Git, GitHub, Linux (WSL)  
-**Interests:** Machine Learning, Generative AI, Computer Vision
+**Libraries/Frameworks:** PyTorch, NumPy, TorchVision, React  
+**Tools:** Git, GitHub, Linux  
+**Interests:** Machine Learning, Generative AI, Computer Vision, Full-Stack Development
 
 ## Contact
 - Email: mohannad.eali@gmail.com
