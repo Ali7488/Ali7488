@@ -2,7 +2,7 @@
 
 I'm a Computer Science student at the University of Regina and a full-stack development intern at The Commons XR. I build tested web applications and software projects across JavaScript/TypeScript, React, C++, and Python, with a growing focus on backend systems and databases.
 
-- Building full-stack projects with TypeScript, Node.js, Express, and PostgreSQL
+- Building frontend and full-stack foundations; currently developing backend skills in TypeScript, Node.js/Express, SQL, and PostgreSQL
 - Interested in software engineering beyond frontend work, including backend design, testing, databases, and deployment
 - Longer-term interests in machine learning and AI-enabled applications
 
@@ -22,7 +22,7 @@ C++ · CMake · OOP · CSV persistence
 
 ### [Battleship](https://github.com/Ali7488/Battle-Ship)
 
-A modular JavaScript implementation of Battleship with human-versus-human and human-versus-computer modes. The domain logic is separated from DOM rendering and covered by 64 Jest test cases.
+A modular JavaScript implementation of Battleship with human-versus-human and human-versus-computer modes. The domain logic is separated from DOM rendering and supported by a repository test suite of 64 Jest cases, of which I personally contributed approximately 10.
 
 [Live demo](https://ali7488.github.io/Battle-Ship/) · JavaScript · Webpack · Jest
 
@@ -42,7 +42,7 @@ A responsive React application for building a structured CV from reusable form s
 
 - **Languages:** JavaScript, TypeScript, Python, C++
 - **Frontend:** React, React Router, HTML, CSS, Tailwind CSS
-- **Backend & Data:** Node.js, Express, SQL, PostgreSQL
+- **Backend & Data (developing):** Node.js, Express, SQL, PostgreSQL
 - **Testing:** Vitest, React Testing Library, Jest
 - **Tooling:** Git, GitHub, Vite, Webpack, ESLint, Prettier, CMake, Linux
 - **Foundations:** Data structures, algorithms, object-oriented programming, REST/API integration, responsive design
